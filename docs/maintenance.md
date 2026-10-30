@@ -24,7 +24,7 @@ Keep archived work and partner projects distinct from current releases and
 company-owned projects.
 
 Customer identities, logos, private repositories and delivery details must not
-be added without authorization. The Customers branch describes services, not
+be added without authorization. The Consulting branch describes services, not
 client projects.
 
 Matteo's personal site is linked at `mbianchi.dev`. Denote, Open Playlist and
