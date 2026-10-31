@@ -57,6 +57,14 @@ page's privacy note if this behavior changes.
 
 ## Before publishing a change
 
+Describe the games, without explaining branch focus or website independence.
+The 2DnD showcase uses the game's actual D20 app mark, bundled locally with its
+notice and recorded in `assets/projects/provenance.json`. Do not use framework
+icons or unrelated artwork as project logos.
+
+Keep the Global Game Jam 2019 mention as a brief account of Matteo's contribution
+in Milan.
+
 Preview narrow and wide screens. Check local assets, anchors, outbound
 destinations and keyboard focus. Open the privacy disclosure with the keyboard.
 Keep `CNAME`, canonical URLs, `robots.txt` and `sitemap.xml` consistent if the

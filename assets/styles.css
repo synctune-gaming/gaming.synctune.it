@@ -314,14 +314,6 @@ p + p { margin-top: 1rem; }
 .feature-art img { width: 180px; }
 .feature-art .meta { margin-top: 16px; }
 
-.feature-type {
-  color: var(--signal);
-  font-family: "Bricolage Grotesque", sans-serif;
-  font-size: clamp(5rem, 12vw, 10rem);
-  line-height: 1;
-  letter-spacing: -0.07em;
-}
-
 .feature-copy h2 { margin-bottom: 24px; }
 .feature-copy .meta { margin-bottom: 16px; }
 
