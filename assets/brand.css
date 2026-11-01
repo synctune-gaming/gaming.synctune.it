@@ -1,0 +1,20 @@
+:root { --signal: #EB79F4; }
+
+.rift { border: 0; }
+
+.rift::before,
+.rift::after {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  inset: 5px;
+  background: var(--signal);
+  clip-path: polygon(25% 0, 100% 0, 100% 75%, 75% 100%, 0 100%, 0 25%);
+}
+
+.rift::after {
+  inset: 7px;
+  background: var(--ink);
+}
+
+.rift .art-caption { max-width: 75%; color: var(--signal); }
