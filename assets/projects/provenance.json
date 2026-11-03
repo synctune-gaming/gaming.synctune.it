@@ -1,0 +1,12 @@
+[
+  {
+    "project": "2DnD",
+    "asset": "assets/projects/2dnd.svg",
+    "sha256": "fb28e4b9f9986b288bfd75f49b35891141d6d756f89e8cd5a58ef933f00f8a5e",
+    "license": "AGPL-3.0",
+    "repo": "mbianchidev/2dnd",
+    "revision": "ebd10f721c5521d658ecaa12678131a755c17b09",
+    "source": "public/favicon.svg",
+    "notice": "assets/projects/licenses/2dnd-LICENSE.txt"
+  }
+]
