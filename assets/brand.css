@@ -17,4 +17,9 @@
   background: var(--ink);
 }
 
-.rift .art-caption { max-width: 75%; color: var(--signal); }
+.rift .art-caption {
+  max-width: 75%;
+  padding-inline: 12px;
+  color: var(--signal);
+  transform: translateY(-20px);
+}

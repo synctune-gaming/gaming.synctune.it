@@ -63,6 +63,8 @@ notice and recorded in `assets/projects/provenance.json`. Do not use framework
 icons or unrelated artwork as project logos.
 
 Preview narrow and wide screens. Check local assets, anchors, outbound
-destinations and keyboard focus. Open the privacy disclosure with the keyboard.
+destinations and keyboard focus. Keep both hero captions inset from the pink
+outline, including its diagonal edge. Open the privacy disclosure with the
+keyboard.
 Keep `CNAME`, canonical URLs, `robots.txt` and `sitemap.xml` consistent if the
 hostname changes. No install or build step is required.
