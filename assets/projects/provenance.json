@@ -8,5 +8,21 @@
     "revision": "ebd10f721c5521d658ecaa12678131a755c17b09",
     "source": "public/favicon.svg",
     "notice": "assets/projects/licenses/2dnd-LICENSE.txt"
+  },
+  {
+    "project": "Dungeons n Scrolls",
+    "asset": "assets/projects/dungeons-n-scrolls.svg",
+    "sha256": "a9debe826d2e6afe82d3d9d2ab1482a1f4d54dce2c93ce7321bdf907a87c1002",
+    "license": null,
+    "repo": "synctune-gaming/dungeons-n-scrolls",
+    "revision": "9f4dce00ab773e1fcd645ae8d5a5652b2f1c284a",
+    "source": "public/favicon.svg"
+  },
+  {
+    "project": "Eidar the Miner",
+    "asset": "assets/projects/eidar-the-miner.svg",
+    "sha256": "61e6d63bce097b4391f8dc2d3fd2a4d25800bd7177f5bbd0265221b6795af820",
+    "license": null,
+    "source": "Eidar the Miner game favicon (private repository)"
   }
 ]
